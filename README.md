@@ -1,2 +1,2 @@
 # tinder-clone
-projeto prático do imã tech - técnicas de web design, front-end.
+projeto prático do trainee imã tech - trabalhou técnicas de web design, front-end. Clone do tinder em HTML e CSS.
